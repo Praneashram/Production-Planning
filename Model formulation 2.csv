@@ -1,0 +1,3 @@
+﻿Machine,Area (cm2),Height (Hmax),Operations cost per unit time(GBP/hr) (TC),Accumulated time per unit height (HTm),Time taken to form per unit volume(VTm),Setup time (STm)
+M1,625,32.5,60,1.4,0.30864,2
+M2,1600,40,80,0.7,0.30864,1
